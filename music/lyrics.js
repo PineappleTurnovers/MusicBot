@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const geniusLyricsAPI = "yrcoC0YFzbB_92rdqz9ptQfrGN-ArsS1Mmj3dZLivMGPrDjb4y1-v55_-dRMu2xL";
+const geniusLyricsAPI = "";
 const geniusApi = require('genius-lyrics-api');
 
 
